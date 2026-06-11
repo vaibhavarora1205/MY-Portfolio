@@ -32,7 +32,7 @@ function Hero() {
         </div>
         </div>
         <div className="w-80 h-80 rounded-full border-4 border-blue-500 flex items-center justify-center text-slate-400">
-            Your Photo
+            Photo
         </div>
     </section>
   )

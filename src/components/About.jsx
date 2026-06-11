@@ -12,7 +12,7 @@ function About() {
 
       <div className="bg-slate-900 p-8 rounded-2xl">
         <p className="text-slate-300 leading-8">
-          I am a second-year Computer Science student at ABES Engineering College, Ghaziabad. I enjoy building modern and responsive web applications using React and Tailwind CSS.
+          I am a First-year Computer Science student at ABES Engineering College, Ghaziabad. I enjoy building modern and responsive web applications using React and Tailwind CSS.
           Currently, I am focused on improving my frontend development skills and building real-world projects to gain practical experience.
         </p>
       </div>
