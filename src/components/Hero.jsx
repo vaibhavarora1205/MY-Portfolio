@@ -22,7 +22,7 @@ function Hero() {
         </p>
         <div className="flex flex-col sm:flex-row gap-4 mt-8">
         <button className="bg-blue-600 px-6 py-3 rounded-lg hover:bg-blue-700 transition-all duration-300">
-            View Projects
+            <a href="#projects">View Projects</a>
         </button>
 
         <button className="border border-slate-600 px-6 py-3 rounded-lg hover:border-blue-500 transition-all duration-300">
