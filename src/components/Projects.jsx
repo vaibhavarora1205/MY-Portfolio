@@ -10,6 +10,13 @@ function Projects() {
             live:"https://amazon-clone-project-nkn2.onrender.com/"
         },
         {
+          title:"My Portfolio",
+          image:"/projects/portfolio.png",
+          description:"A modern and responsive portfolio website built with React and Tailwind CSS to showcase my skills, projects, resume, and professional profiles.",
+          tech:["React","Tailwind"],
+          github:"https://github.com/vaibhavarora1205/MY-Portfolio.git"
+        },
+        {
             title:"Calculator App",
             image:"/projects/calculator.png",
             description:
@@ -27,13 +34,6 @@ function Projects() {
         github:"https://github.com/vaibhavarora1205/vaibhavarora1205.github.io.git",
         live:"https://vaibhavarora1205landingpagereact.netlify.app/",
         },
-        {
-          title:"My Portfolio",
-          image:"/projects/portfolio.png",
-          description:"",
-          tech:["React","Tailwind"],
-          github:"https://github.com/vaibhavarora1205/MY-Portfolio.git"
-        }
     ]
   return (
     <section id="projects" className="px-6 md:px-12 py-24">
